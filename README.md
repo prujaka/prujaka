@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sergey</h1>
-<h5 align="left">A Junior Data Scientist with a PhD in Fluid Mechanics, efficient problem solver with a scientific background and teaching experience.</h5>
+<h4 align="left">A Junior Data Scientist with a PhD in Fluid Mechanics, efficient problem solver with a scientific background and teaching experience.</h4>
 
 - I'm currently working on [Spotify Sensuous Reccomendation System](link)
 
