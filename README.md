@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sergey</h1>
 <h4 align="left">Data Scientist with a PhD in Fluid Mechanics.</h4>
 
-- I'm currently working on [Spotify Sensuous Recommendation System](https://github.com/prujaka/spotify-sensuous-backend)
+- I'm currently working on [Sensuous Recommendation System for Spotify](https://github.com/prujaka/spotify-sensuous-backend)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
