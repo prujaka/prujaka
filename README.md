@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sergey</h1>
 <h4 align="left">Data Scientist with a PhD in Fluid Mechanics.</h4>
 
-- I'm currently working on [Sensuous Recommendation System for Spotify](https://github.com/prujaka/spotify-sensuous-backend)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stka" height="30" width="40" /></a>
