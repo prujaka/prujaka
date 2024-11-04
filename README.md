@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I'm Sergey! Data Scientist, PhD in Fluid Mechanics.</h4>
+<h5 align="left">Hi, I'm Sergey! Data Scientist, PhD in Fluid Mechanics.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
